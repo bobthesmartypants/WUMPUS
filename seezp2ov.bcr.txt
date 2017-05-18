@@ -1,0 +1,71 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch Test
+# Changes to be committed:
+#	modified:   Assets/_Scenes/Room.unity
+#	new file:   Library/Collab/CollabSnapshot_18bcc905-164d-4681-bd65-599203365cda.txt
+#	modified:   Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+#	modified:   Library/UnityAssemblies/version.txt
+#	modified:   Library/assetDatabase3
+#	modified:   Library/metadata/00/00000000000000002000000000000000
+#	modified:   Library/metadata/00/00000000000000003000000000000000
+#	modified:   Library/metadata/00/00000000000000004000000000000000
+#	modified:   Library/metadata/00/00000000000000004100000000000000
+#	modified:   Library/metadata/00/00000000000000005000000000000000
+#	modified:   Library/metadata/00/00000000000000005100000000000000
+#	modified:   Library/metadata/00/00000000000000006000000000000000
+#	modified:   Library/metadata/00/00000000000000006100000000000000
+#	modified:   Library/metadata/00/00000000000000007000000000000000
+#	modified:   Library/metadata/00/00000000000000007100000000000000
+#	modified:   Library/metadata/00/00000000000000008000000000000000
+#	modified:   Library/metadata/00/00000000000000009000000000000000
+#	modified:   Library/metadata/00/0000000000000000a000000000000000
+#	modified:   Library/metadata/00/0000000000000000a100000000000000
+#	modified:   Library/metadata/00/0000000000000000b000000000000000
+#	modified:   Library/metadata/00/0000000000000000c000000000000000
+#	modified:   Library/metadata/09/09e6432666741144b8a8f0f53faf223e
+#	modified:   Library/metadata/09/09e6432666741144b8a8f0f53faf223e.info
+#	modified:   Library/metadata/22/22401e6c6d2c33d4f8226a81257e9959
+#	modified:   Library/metadata/22/22401e6c6d2c33d4f8226a81257e9959.info
+#	new file:   Library/metadata/2f/2fe3476eabbbb6c448e6b55a2cc471f5
+#	new file:   Library/metadata/2f/2fe3476eabbbb6c448e6b55a2cc471f5.info
+#	modified:   Library/metadata/33/338cce913a250b44e88842384851f133
+#	new file:   Library/metadata/49/49f5766d0d4954f44b85d4bbd7131677
+#	new file:   Library/metadata/49/49f5766d0d4954f44b85d4bbd7131677.info
+#	modified:   Library/metadata/4a/4a237f48794fedf448a96e69cfbc30a1
+#	modified:   Library/metadata/4e/4e6a50a2ece40b345a025d5782626608
+#	modified:   Library/metadata/4e/4e6a50a2ece40b345a025d5782626608.info
+#	modified:   Library/metadata/64/641326f667f42ea44a34dcf8bc34b3bb
+#	new file:   Library/metadata/69/6981461fe431401459211818212a29cf
+#	new file:   Library/metadata/69/6981461fe431401459211818212a29cf.info
+#	modified:   Library/metadata/6b/6bcfb9b7f51dcc74aa2e827d1c7d2ff3
+#	modified:   Library/metadata/78/78e6aa67079cb3841bfcb7d6f6d438d5
+#	new file:   Library/metadata/84/84ca94c19f25ae14d83aa41bb3654390
+#	new file:   Library/metadata/84/84ca94c19f25ae14d83aa41bb3654390.info
+#	modified:   Library/metadata/bd/bd8f94c184ca62844ae8ee15aec2fcc5
+#	modified:   Library/metadata/c1/c1e630dbf4797cf4db7e55dda135c186
+#	new file:   Library/metadata/d0/d05b96cee66e14240838de167097537a
+#	new file:   Library/metadata/d0/d05b96cee66e14240838de167097537a.info
+#	modified:   Library/shadercompiler-UnityShaderCompiler.exe0.log
+#	modified:   ProjectSettings/ProjectSettings.asset
+#	modified:   ProjectSettings/UnityConnectSettings.asset
+#
+# Changes not staged for commit:
+#	deleted:    Library/CrashedAssetImports.txt
+#	modified:   Temp/UnityLockfile
+#	deleted:    Temp/UnityTempFile-0553c0502e02b25449a8dc335991fb6c
+#	deleted:    Temp/UnityTempFile-2b370590d109ce245adea8f695ead93b
+#	deleted:    Temp/UnityTempFile-679f83a4d4eedc34a9bdb0fb50b97c31
+#	deleted:    Temp/UnityTempFile-98bb3c48386feb14dbf9745ef8b422f9
+#	deleted:    Temp/UnityTempFile-9e32414a3941e794495738b9a94dfd4b
+#	deleted:    Temp/UnityTempFile-fbbe0fe3fd531924e81ab1d4a4ec5ee6
+#	deleted:    Temp/__Backupscenes/0.backup
+#	modified:   Wumpus.sln
+#
+# Untracked files:
+#	Temp/UnityTempFile-25609f2ab2041a64386f6cf6f371f53b
+#	Temp/UnityTempFile-c21833a0c73afc841b95501c2ebcd1a8
+#	WUMPUS.csproj
+#
+
